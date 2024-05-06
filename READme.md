@@ -3,13 +3,13 @@
 ```
 # Ubuntu
 1. sudo apt install uvicorn -y
-2. python3 -m pip install fastapi[all]
+2. python3 -m pip install --upgrade sqlalchemy fastapi[all]
 ```
 
 ```
 # Windows
 1. python3 -m pip install uvicorn
-2. python3 -m pip install fastapi[all]
+2. python3 -m pip install --upgrade sqlalchemy fastapi[all]
 ```
 
 # Run the project
